@@ -1,6 +1,5 @@
-import discord, logging, vlc, time
+import discord, logging
 from gtts import gTTS
-from mutagen import mp3
 from discord.ext import commands
 from discord.ext.commands.core import command
 
