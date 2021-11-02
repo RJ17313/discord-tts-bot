@@ -1,0 +1,13 @@
+List of accents able to be used by "t.accentset accent_here"
+
+com.au (Australian)
+co.uk (British)
+com (American)
+ca (Canadian)
+co.in (Indian)
+ie (Irish)
+co.za (South African)
+fr (French)
+com.br (Brazilian)
+pt (Portualian)
+es (Spanish)

@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Voice File
+voice.mp3
+
+# Token File
+token.txt
