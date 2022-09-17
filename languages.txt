@@ -1,8 +1,0 @@
-List of languages able to be set by "t.languageset language_here"
-
-en (English)
-fr (French)
-zh-CN (Mandarin China Mainland)
-zh-TW (Mandarin Taiwan)
-pt (Portuguese)
-es (Spanish)
