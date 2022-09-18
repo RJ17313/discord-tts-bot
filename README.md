@@ -32,7 +32,7 @@ Requirements:
 7. Run `node .` to finally run the bot
 
 ## Why?
-After going through my Github repositories, I have noticed that the code on my repositories does not accurately reflect my current skill set as an aspiring developer. I released Discord-TTS-Bot 11 months ago from today because I was learning Python and made a short bot because I thought the idea of a TTS Discord bot was cool. Recently however, I have been picking up on JavaScript and decided to recreate this bot as to both learn, and showcase my progress as a developer. While I have not intended to host this bot, feel free to clone this repository and host it yourself if you are curious.
+After going through my Github repositories, I have noticed that the code on my repositories does not accurately reflect my current skill set as an aspiring developer. I released Discord-TTS-Bot 11 months ago from today because I was learning Python and made a short bot because I thought the idea of a TTS Discord bot was cool. Recently however, I have been picking up on JavaScript and decided to recreate this bot as to both learn, and showcase my progress as a developer. While I have not intended to host this bot, feel free to clone this repository and host it yourself if you are curious. Version 1.0 of the bot is still avaliable if you switch over to the `v1.0` branch. I have not modified v1.0 at all since the creation of v2.0 and as a final note, I created v2.0 in one day.
 
 ## FAQ
 **Question:** Will you continue to update this bot?
